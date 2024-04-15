@@ -1,0 +1,20 @@
+*::selection {
+	background-color: #fff;
+}
+
+body[theme="black"] {
+	color: #f1f1f1;
+	background-color: #000;
+}
+
+body[theme="cyan"] {
+	background-color: cyan;
+}
+
+body[theme="salmon"] {
+	background-color: salmon;
+}
+
+body[theme="white"] {
+	background-color: #fff;
+}
