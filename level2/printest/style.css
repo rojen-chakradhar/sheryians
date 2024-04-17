@@ -7,7 +7,7 @@
 	text-decoration: none;
 	list-style: none;
 	font-family: "Poppins", sans-serif;
-	/* outline: 1px dotted red; */
+	outline: 1px dotted red;
 }
 
 html,
@@ -49,17 +49,9 @@ body {
     border-left: 2px solid #888;
 	color: #111;
     white-space: nowrap;
+    cursor: pointer;
 }
 
 nav img{
     object-fit: cover;
-    border-radius: 50%;
-    width: 25px;
-}
-
-#box img{
-    object-fit: cover;
-    width: 10%;
-    border-radius: 10px;
-    cursor: pointer;
 }
