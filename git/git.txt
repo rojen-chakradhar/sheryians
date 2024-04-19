@@ -5,7 +5,7 @@ A added or staged
 C Commited
 commands you need to know
 git status -s => to know current status of unstaged and staged files
-git log -oneline => to know current status of saved points
+git log --oneline => to know current status of saved points
 managing your own projects
 making git available in our project
 making a checkpoint or saved point
